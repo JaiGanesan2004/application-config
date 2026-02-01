@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: "Lol_Gazz"
+
+build:
+  id: 69
+  name: "Git-Default profile"
+  version: 1.0
